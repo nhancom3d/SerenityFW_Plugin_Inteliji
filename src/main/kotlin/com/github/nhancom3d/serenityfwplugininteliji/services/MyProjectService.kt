@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.nhancom3d.serenityfwplugininteliji.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nhancom3d.serenityfwplugininteliji.MyBundle
 
 class MyProjectService(project: Project) {
 
